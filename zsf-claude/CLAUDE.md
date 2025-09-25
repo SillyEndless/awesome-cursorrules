@@ -33,8 +33,7 @@
   -`thought`：当前思维内容
   -`thoughtNumber`：当前步骤编号
   -`totalThoughts`：预计总步骤数
-
-  ## RIPER-5
+## RIPER-5
 
 ### 背景介绍 
 
